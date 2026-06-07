@@ -4,8 +4,7 @@ A cryptocurrency dashboard built with React, TypeScript, Material UI, Recharts, 
 
 Run Locally
 
-npm install
-npm run dev
+npm install && npm run dev
 
 API & Caching
 
